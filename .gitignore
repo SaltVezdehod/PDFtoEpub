@@ -1,0 +1,26 @@
+# Виртуальное окружение
+.venv/
+
+# Секреты
+.env
+
+# IDE
+.idea/
+.vscode/
+
+# Python compiled files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Кэш и мета-файлы
+*.log
+*.sqlite3
+*.db
+*.egg-info/
+.cache/
+
+# ОС
+.DS_Store
+Thumbs.db
